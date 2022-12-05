@@ -1,0 +1,25 @@
+
+// MARK: - Base
+
+"error" = "Ошибка";
+"ok" = "Ок";
+"cancel" = "Отмена";
+"done" = "Готово";
+
+// MARK: - Errors
+
+"URL address is not valid" = "URL-адрес недействителен";
+"Failed to parse response" = "Не удалось разобрать ответ";
+"Unknown error" = "Неизвестная ошибка";
+"Not found" = "Не найдено";
+
+// MARK: - App
+
+"Write the name of the TV channel" = "Напишите название телеканала";
+"All" = "Все";
+"Favorites" = "Избранные";
+"1080p" = "1080p";
+"720p" = "720p";
+"480p" = "480p";
+"360p" = "360p";
+"AUTO" = "AUTO";

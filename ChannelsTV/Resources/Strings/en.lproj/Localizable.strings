@@ -1,0 +1,25 @@
+
+// MARK: - Base
+
+"error" = "Error";
+"ok" = "Ok";
+"cancel" = "Cancel";
+"done" = "Done";
+
+// MARK: - Errors
+
+"URL address is not valid" = "URL address is not valid";
+"Failed to parse response" = "Failed to parse response";
+"Unknown error" = "Unknown error";
+"Not found" = "Not found";
+
+// MARK: - App
+
+"Write the name of the TV channel" = "Write the name of the TV channel";
+"All" = "All";
+"Favorites" = "Favorites";
+"1080p" = "1080p";
+"720p" = "720p";
+"480p" = "480p";
+"360p" = "360p";
+"AUTO" = "AUTO";

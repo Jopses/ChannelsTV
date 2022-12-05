@@ -1,0 +1,40 @@
+### Headers settings
+company: Pavel Zorin
+
+### Xcode project settings
+project_name: ChannelsTV
+xcodeproj_path: ChannelsTV.xcodeproj
+
+### Code generation settings section
+# The main project target name
+project_target: ChannelsTV
+
+# The file path for new screens
+project_file_path: ChannelsTV/Screens
+
+# The Xcode group path to new screens
+project_group_path: ChannelsTV/Screens
+
+### Tests generation settings section
+# The tests target name
+test_target: ChannelsTVTests
+
+# The file path for new tests
+test_file_path: ChannelsTVTests/Screens
+
+# The Xcode group path to new tests
+test_group_path: ChannelsTVTests/Screens
+
+### Dependencies settings section
+podfile_path: Podfile
+
+### Catalogs
+catalogs:
+- 'https://github.com/Jopses/generamba-templates'
+
+### Templates
+templates:
+- {name: main_mvp_screen}
+- {name: main_mvp_table_screen}
+- {name: main_viper_screen}
+- {name: main_viper_table_screen}
